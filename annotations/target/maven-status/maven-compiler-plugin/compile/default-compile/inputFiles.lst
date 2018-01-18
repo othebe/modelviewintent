@@ -1,0 +1,14 @@
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/modelrenderer/annotations/ModelRendererSpec.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/coordinator/annotations/CoordinatorSpec.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/Spec.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/statemapper/annotations/ActionHandler.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/actiongenerator/ActionGeneratorSpecProcessor.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/ISpecProcessor.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/Utils.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/actiongenerator/annotations/ActionGeneratorSpec.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/modelrenderer/ModelRendererSpecProcessor.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/statemapper/StateMapperSpecProcessor.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/MVIProcessor.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/statemapper/annotations/StateMapperSpec.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/coordinator/CoordinatorSpecProcessor.java
+/Users/othebe/Dev/android-mvp/modelviewintent/annotations/src/main/java/processor/coordinator/annotations/CoordinatorSpecGroup.java

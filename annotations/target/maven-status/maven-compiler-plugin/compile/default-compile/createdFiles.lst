@@ -1,0 +1,15 @@
+processor/actiongenerator/annotations/ActionGeneratorSpec.class
+processor/Utils.class
+processor/actiongenerator/ActionGeneratorSpecProcessor.class
+processor/MVIProcessor.class
+processor/Spec.class
+processor/statemapper/annotations/ActionHandler.class
+processor/coordinator/annotations/CoordinatorSpecGroup.class
+processor/coordinator/CoordinatorSpecProcessor.class
+processor/modelrenderer/ModelRendererSpecProcessor.class
+processor/statemapper/annotations/StateMapperSpec.class
+processor/ISpecProcessor.class
+processor/coordinator/annotations/CoordinatorSpec.class
+META-INF/services/javax.annotation.processing.Processor
+processor/statemapper/StateMapperSpecProcessor.class
+processor/modelrenderer/annotations/ModelRendererSpec.class
